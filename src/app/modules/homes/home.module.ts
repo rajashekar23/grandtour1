@@ -22,6 +22,7 @@ import { FullpackagesComponent } from 'src/app/components/fullpackages/fullpacka
 import { IntouchComponent } from 'src/app/components/intouch/intouch.component';
 import { MapComponent } from 'src/app/components/map/map.component';
 import { BooktourComponent } from 'src/app/components/booktour/booktour.component';
+import { SharedModule } from 'src/app/shared/shared.module';
 
 @NgModule ({
     declarations: [
@@ -49,7 +50,8 @@ import { BooktourComponent } from 'src/app/components/booktour/booktour.componen
         BookNowContainer
     ],
 imports: [
-CommonModule
+CommonModule,
+SharedModule
 ]
 })
 export class HomeModule {}

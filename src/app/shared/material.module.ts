@@ -27,7 +27,8 @@ import {
   MatTabsModule,
   MatSlideToggleModule,
   MatPaginatorModule,
-  MatNativeDateModule
+  MatNativeDateModule,
+  MatFormFieldModule
 } from '@angular/material';
 
 
@@ -58,6 +59,7 @@ import {
     MatSlideToggleModule,
     MatPaginatorModule,
     MatNativeDateModule,
+    MatFormFieldModule
   ],
   exports: [
     MatButtonModule,
@@ -86,6 +88,7 @@ import {
     MatSlideToggleModule,
     MatPaginatorModule,
     MatNativeDateModule,
+    MatFormFieldModule
   ]
 })
 export class MaterialModule {}
