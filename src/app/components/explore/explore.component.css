@@ -1,0 +1,41 @@
+.num{
+    font-size: 3em;
+    font-weight: 400;
+    color:#212529;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+.num span{
+    font-size: 20px;
+    color: #707579;
+    font-weight: 400;
+
+}
+.quo{
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-size: 15px;
+    color: #707579;
+}
+.timer{
+    line-height: 0;
+
+}
+.explo b{
+    line-height: 40px;
+    font-size: 26px;
+    /* font-weight: 400; */
+    letter-spacing: 1px;
+}
+.explo h3{
+    line-height: 40px;
+    font-size: 26px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.explo p{
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+    color: #707579;
+}

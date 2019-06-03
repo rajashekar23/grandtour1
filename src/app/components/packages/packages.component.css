@@ -1,0 +1,58 @@
+.p-card {
+    max-width: 400px;
+  }
+  .p-card i{
+      color:#047FFC;
+      padding-right: 5px;
+
+  }
+  
+  .p-card-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  h3{
+    font-size: 16px;
+    letter-spacing: 1px;
+    color: #707579;
+    text-transform: capitalize;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.2;
+  }
+  h2{
+    text-transform: capitalize;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 18px;
+    line-height: 1.5em;
+    
+  }
+  .disc{
+      padding:48px 0;
+  }
+  p{
+    font-size: 15px;
+    line-height: 1.6em;
+    letter-spacing: 1px;
+    color: #707579;
+    font-family: 'Open Sans', sans-serif;
+  }
+  span{
+    letter-spacing: 0px;
+    color: #707579;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+  .dis h3{
+    color: #323648;
+    font-size: 43px;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.2;
+    margin-bottom:0;
+  }
+  .dis p{
+      text-align: center;
+  }
