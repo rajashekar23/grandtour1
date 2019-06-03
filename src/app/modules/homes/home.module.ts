@@ -23,6 +23,7 @@ import { IntouchComponent } from 'src/app/components/intouch/intouch.component';
 import { MapComponent } from 'src/app/components/map/map.component';
 import { BooktourComponent } from 'src/app/components/booktour/booktour.component';
 import { SharedModule } from 'src/app/shared/shared.module';
+import { RouterModule } from '@angular/router';
 
 @NgModule ({
     declarations: [
@@ -51,7 +52,8 @@ import { SharedModule } from 'src/app/shared/shared.module';
     ],
 imports: [
 CommonModule,
-SharedModule
+SharedModule,
+RouterModule
 ]
 })
 export class HomeModule {}

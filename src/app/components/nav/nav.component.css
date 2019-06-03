@@ -1,0 +1,20 @@
+.head{
+    color:#ddd;
+    font-size: 15px;
+    font-weight: 400px;
+}
+.nav{
+
+    background-color: transparent;
+   
+}
+.banner{
+    background-image: url('../../../assets/banner1.jpg');
+    background-blend-mode: darken;
+    background-color: rgba(0,0,0,0.5); 
+    z-index: 2;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 750px;
+}
