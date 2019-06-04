@@ -14,7 +14,7 @@ const routes: Routes = [
  { path: 'services', component: ServicesContainer },
  { path: 'package', component: PackageContainer },
  { path: 'contact', component: ContactContainer },
- { path: 'booknow', component: BookNowContainer }
+ { path: 'book-now', component: BookNowContainer }
 ];
 
 @NgModule({

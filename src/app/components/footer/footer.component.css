@@ -1,0 +1,45 @@
+.foo{
+    background-color: #151515;
+    padding-top: 43px;
+}
+.end{
+    background-color: #222222;
+    color:#707579;
+}
+h3{
+    font-size: 1.3em;
+    color: #eee;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+    font-weight: 400;
+    line-height: 1.2;
+}
+input{
+    background: transparent;
+    padding:12px 15px;
+    border:0.5px solid #707579;
+}
+.foo p{
+    color: #707070;
+    margin: 8px 0;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+.foo i{
+    color: #fff;
+    font-size: 13.5px;
+    margin-right: 5px;
+    width: 35px;
+    height: 35px;
+    display: block;
+    text-align: center;
+    line-height: 35px;
+    letter-spacing: 1px;
+}
+.end p{
+    font-size: 15px;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+    color: #707579;
+}

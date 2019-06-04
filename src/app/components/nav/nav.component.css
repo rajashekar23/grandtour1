@@ -43,7 +43,15 @@
     border:2px solid white;
     border-radius: 0px;
     padding: 6px 30px;
-    /* color: #fff; */
     font-size: 15px;
     letter-spacing: 2px;
+}
+.now{
+    background-color: #047FFC;
+    color:white;
+    padding: 2px 20px;
+    letter-spacing: 1px;
+    font-size: 15px;
+    border-radius: 0px;
+    display: inline-block;
 }

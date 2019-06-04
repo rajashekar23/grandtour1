@@ -1,3 +1,37 @@
-<p>
-  banner works!
-</p>
+<div class="banner">
+    <mat-toolbar
+      fxLayout="row"
+      fxLayoutAlign="space-around center"
+      class="nav"
+      style="font-family: 'Open Sans', sans-serif;"
+    >
+      <a
+        fxFlex="40"
+        routerLink="/"
+        style="color:#ffff;font-size:28px;text-decoration: none;margin-left:5%"
+        ><i
+          class="fa fa-map-signs"
+          aria-hidden="true"
+          style="color:white;font-size: 30px;padding-right: 10px"
+        ></i
+        >Grand Tour</a
+      >
+  
+      <a class="head" routerLink="/"><button mat-button>Home</button></a>
+      <a class="head" routerLink="/about-us"
+        ><button mat-button>About us</button></a
+      >
+      <a class="head" routerLink="/services"
+        ><button mat-button>Services</button></a
+      >
+      <a class="head" routerLink="/package"
+        ><button mat-button>Packages</button></a
+      >
+      <a class="head" routerLink="/contact"
+        ><button mat-button>Contact</button></a
+      >
+      <button mat-button routerLink="/book-now" class="now">
+        BOOK NOW
+      </button>
+    </mat-toolbar>
+    </div>
