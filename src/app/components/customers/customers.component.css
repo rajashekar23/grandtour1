@@ -1,0 +1,36 @@
+.cust{
+    padding:43px 0;
+    text-align: center;
+}
+h3{
+    font-size: 43px;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 1.2;
+}
+p{
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.8em;
+    letter-spacing: 1px;
+    color: #707579;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    margin-left: 113px;
+}
+h4{
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    line-height: 1.2;
+    color: #323648;
+    
+}
