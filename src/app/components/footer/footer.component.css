@@ -1,6 +1,7 @@
 .foo{
     background-color: #151515;
     padding-top: 43px;
+    min-height: 350px;
 }
 .end{
     background-color: #222222;

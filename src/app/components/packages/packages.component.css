@@ -2,6 +2,7 @@
     max-width: 400px;
     border: none;
     box-shadow: 0 2px 2px 2px rgb(0,0,0,0.1);
+    margin-bottom: 20px;
   }
   .p-card i{
       color:#047FFC;

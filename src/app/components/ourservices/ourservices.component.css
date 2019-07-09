@@ -24,6 +24,11 @@ h2{
     font-family:inherit;
     box-sizing: border-box;
     padding:0 32px;
+    max-width: 300px;
+}
+.paa{
+    max-width: 300px;
+    margin-bottom: 20px;
 }
 .nor i{
     font-size:32px;
